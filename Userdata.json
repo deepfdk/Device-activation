@@ -5,6 +5,12 @@
         "expirydate": "31-12-2025",
         "Allowoffline": true
     },
+   {
+        "device_id": "device1234",
+        "key": "key123245",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
     {
         "device_id": "25a590eabc66dfb0",
         "key": "25a590eabc66dfb0",
