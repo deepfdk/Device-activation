@@ -40,11 +40,12 @@
         "key": "06eebd89cbc63d97",
         "expirydate": "16-11-2025",
         "Allowoffline": false
-      }
-    {
-        "device_id": "cedaa34cd8192e28",
-        "key": "cedaa34cd8192e28",
-        "expirydate": "29-01-2026",
+      },
+     {
+        "device_id": "06eebd89cbc63d97",
+        "key": "06eebd89cbc63d97",
+        "expirydate": "16-11-2025",
         "Allowoffline": false
-    }
+      }
+     
       ]
